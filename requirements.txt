@@ -4,4 +4,3 @@ pandas
 ta-lib
 scikit-learn
 matplotlib
-pytz
